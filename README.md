@@ -153,6 +153,6 @@ src/
 
 <div align="center">
 
-Made with 🩷 — relixta_
+Made with 🩷 — relixta_ (First Project After Learning React)
 
 </div>
